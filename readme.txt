@@ -1,0 +1,1 @@
+If you using magento version 1.9.3.x or you already update the patch SUPEE-8788 of magento, please upload app folder to your magento root folder
